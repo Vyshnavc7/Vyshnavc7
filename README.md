@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **ANGULAR JS**
 - 👨‍💻 Personal Website [https://vyshnavc7.github.io/vyshnav/](https://vyshnavc7.github.io/vyshnav/)
  - 📄 Know about my experiences [![Linkedin: Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/clevin-m-wilson-9800b51a9/)
-- 📫 How to reach me **clevinmwilson@gmail.com**
-- Fun Fact: I ❤️ Football.
+- 📫 How to reach me **officialvyshnavc7@gmail.com**
+- Fun Fact: I ❤️ Cricket.
 
 
 

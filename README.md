@@ -66,10 +66,10 @@ Vyshnav](https://img.shields.io/badge/-Vyshnav-blue?style=flat-square&logo=Linke
 
 
 
-### Stats
+<!-- ### Stats -->
 
 
-| <a href="https://github.com/vyshnavc7"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vyshnavc7&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Vyshnav's github stats" /></a>|<a href="https://github.com/vyshnavc7"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavc7&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
+<!-- | <a href="https://github.com/vyshnavc7"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vyshnavc7&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Vyshnav's github stats" /></a>|<a href="https://github.com/vyshnavc7"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavc7&layout=compact&theme=midnight-purple&hide_border=True" /></a> | -->
 | ------------- | ------------- |
 
 

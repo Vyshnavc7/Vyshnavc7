@@ -29,7 +29,7 @@ Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=
     <!-- <a href="https://www.youtube.com/channel/UCTKrVbzpjlhHIUlbQiz-3cQ/featured" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="gladson ms" height="30" width="40" /></a> -->
-    <a href="" target="blank"><img align="center"
+    <a href="https://github.com/Vyshnavc7/Vyshnavc7" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="#5617" height="30" width="40" /></a>
 </p>

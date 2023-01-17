@@ -67,16 +67,12 @@ Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=
 ### Stats
 
 
-| <a href="https://github.com/clevinwilson"><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=clevinwilson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"
-        alt="Clevin's github stats" /></a>|<a href="https://github.com/clevinwilson"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevinwilson&layout=compact&theme=midnight-purple&hide_border=True" /></a>
-|
+| <a href="https://github.com/clevinwilson"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clevinwilson&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Clevin's github stats" /></a>|<a href="https://github.com/clevinwilson"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevinwilson&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
 | ------------- | ------------- |
 
 
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/clevin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-        width="200" /></a>
+<a href="https://www.buymeacoffee.com/clevin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+

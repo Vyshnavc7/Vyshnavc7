@@ -2,14 +2,14 @@
         width="30px">, I'm C Vyshnav</h1>
 <h3 align="center">A passionate and professional web developer </h3>
 
-<p align="left"> <img
+<!-- <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=clevinwilson&label=Profile%20views&color=0e75b6&style=flat"
-        alt="clevinwilson" /> </p>
+        alt="clevinwilson" /> </p> -->
 
 - 🌱 I’m currently learning **ANGULAR**
 - 👨‍💻 Personal Website [https://vyshnavc7.github.io/vyshnav/](https://vyshnavc7.github.io/vyshnav/)
 - 📄 Know about my experiences [![Linkedin:
-Vyshnav](https://img.shields.io/badge/-C Vyshnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/c-vyshnav-6637231bb/)
+Vyshnav](https://img.shields.io/badge/-Vyshnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/c-vyshnav-6637231bb/)
 - 📫 How to reach me **officialvyshnavc7@gmail.com**
 - Fun Fact: I ❤️ Cricket.
 

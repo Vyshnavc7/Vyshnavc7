@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **ANGULAR**
 - 👨‍💻 Personal Website [https://vyshnavc7.github.io/vyshnav/](https://vyshnavc7.github.io/vyshnav/)
 - 📄 Know about my experiences [![Linkedin:
-Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/clevin-m-wilson-9800b51a9/)
+Vyshnav](https://img.shields.io/badge/-C Vyshnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/c-vyshnav-6637231bb/)
 - 📫 How to reach me **officialvyshnavc7@gmail.com**
 - Fun Fact: I ❤️ Cricket.
 
@@ -17,7 +17,7 @@ Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/clevin-m-wilson-9800b51a9" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/c-vyshnav-6637231bb/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="gladson m.s" height="30" width="40" /></a>
     <!-- <a href="https://www.facebook.com/clevin.wilson/" target="blank"><img align="center"

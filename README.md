@@ -20,15 +20,15 @@ Clevin](https://img.shields.io/badge/-ClevinMWilson-blue?style=flat-square&logo=
     <a href="https://www.linkedin.com/in/clevin-m-wilson-9800b51a9" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="gladson m.s" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/clevin.wilson/" target="blank"><img align="center"
+    <!-- <a href="https://www.facebook.com/clevin.wilson/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="gladson saji" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/clevinmwilson/" target="blank"><img align="center"
+            alt="gladson saji" height="30" width="40" /></a> -->
+    <a href="https://www.instagram.com/thatphenomenal_7_/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="gladsonsaji" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/UCTKrVbzpjlhHIUlbQiz-3cQ/featured" target="blank"><img align="center"
+    <!-- <a href="https://www.youtube.com/channel/UCTKrVbzpjlhHIUlbQiz-3cQ/featured" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="gladson ms" height="30" width="40" /></a>
+            alt="gladson ms" height="30" width="40" /></a> -->
     <a href="" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
             alt="#5617" height="30" width="40" /></a>

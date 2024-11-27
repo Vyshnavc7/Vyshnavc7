@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=clevinwilson&label=Profile%20views&color=0e75b6&style=flat"
         alt="clevinwilson" /> </p> -->
 
-- 🌱 I’m currently learning **ANGULAR**
+- 🌱 I’m currently **ANGULAR developer**
 - 👨‍💻 Personal Website [https://vyshnavc7.github.io/vyshnav/](https://vyshnavc7.github.io/vyshnav/)
 - 📄 Know about my experiences [![Linkedin:
 Vyshnav](https://img.shields.io/badge/-Vyshnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/vyshnav-c-6637231bb/)
